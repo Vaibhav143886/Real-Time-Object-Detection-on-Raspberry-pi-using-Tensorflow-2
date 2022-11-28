@@ -9,3 +9,6 @@ Camera: Mobile Phone camera is used with raspberry pi for detection using ip con
 In This project hand sign are detected based on Brazilian sign language alphabet taken from mandeley dataset platform. Link: https://data.mendeley.com/datasets/k4gs3bmx5k/5
 
 To run detection on raspberry pi, connect camera to pi and clone PI folder into it and detect tflite file and insert or move your own TFlite file and customized label according to your needs. But prior to it, install tensorflow 2 on your raspberry pi systems. Training is performed on Laptop with Windows Machine.
+
+Installation of Tensorflow and Opencv on raspberry pi: https://www.youtube.com/watch?v=vekblEk6UPc&t=253s
+Code: https://github.com/nicknochnack/TFODCourse
